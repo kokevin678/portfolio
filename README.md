@@ -2,35 +2,22 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Summary
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
+## Site Picture
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+## Technologies Used
+- HTML
+- CSS
+- Git
+- Github
 
 
 ## Built With
@@ -46,10 +33,10 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **YOUR NAME** 
+* **Chengyu Kevin Ko** 
 
 - [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
+- [Link to Github](https://github.com/kokevin678)
 - [Link to LinkedIn](https://www.linkedin.com/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
