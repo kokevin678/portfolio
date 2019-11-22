@@ -1,0 +1,42 @@
+*{
+    
+}
+
+body {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#header {
+    background: #ffffff;
+    margin: 0 0 30px;
+    color: #ffffff;
+    border: 1px;
+    border color: #cccccc;
+    position: fixed;
+    width 100%;
+}
+
+#banner {
+    width: 250px;
+    height: 100px;
+    background: #4aaaa5;
+    float: left;
+    color: #ffffff;
+}
+
+nav {
+    float: right;
+}
+
+.main {
+    clear: both;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-color: #dddddd;
+}
+
+#footer {
+    background: #666666;
+}
