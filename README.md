@@ -1,17 +1,15 @@
 # Portfolio
 
-One Paragraph of project description goes here
+Class homework assignment on my first portfolio
 
 ## Summary
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+For the first assignment we used what we learn about HTML and CSS to creat a portfolio page with an About me, Portfolio, and Contact page.
 
 ## Site Picture
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+
+
 
 ## Technologies Used
 - HTML
@@ -47,6 +45,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* This is my first website
