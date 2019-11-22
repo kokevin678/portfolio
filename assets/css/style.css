@@ -28,7 +28,7 @@ nav {
     float: right;
 }
 
-.main {
+.main-container {
     clear: both;
     width: 100%;
     max-width: 960px;
@@ -36,6 +36,13 @@ nav {
     background: #ffffff;
     border-color: #dddddd;
 }
+
+.selfie{
+    width: 250px;
+    height: 250px;
+    
+}
+
 
 #footer {
     background: #666666;
